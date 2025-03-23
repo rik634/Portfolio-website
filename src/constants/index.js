@@ -104,7 +104,7 @@ import {
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1S0sHNlTmV3Afi115SPayl1VqQFQ46FNy/view?usp=sharing";
 export const repoLink = "https://github.com/rik634/Portfolio-website";
 
 export const callToAction = "https://www.linkedin.com/in/riya-kotalwar-45b046214/";
@@ -529,7 +529,7 @@ export const projects = [
     id: "project-4",
     title: "Portfolio",
     github: "https://github.com/rik634/Portfolio-website",
-    link: "https://parthmittal.netlify.app/",
+    link: "https://riya-kotalwar-23sr08.netlify.app/",
     image: portfolio,
     content: "Personal portfolio website with React and Tailwind CSS.",
     stack: [
