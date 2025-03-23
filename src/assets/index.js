@@ -2,16 +2,23 @@ import parthmittal from "./parth.svg";
 import profilePic from "./profile-pic.jpg";
 import profile from "./profile.jpg";
 import menu from "./menu.svg";
+import microsoft from "./microsoft.png";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
 import nitk from "./nitk.png";
+import alma from "./alma.png";
 import bbs from "./bbs1.png";
+import rik from "./riya1.png";
+import alumni from "./alumniCell.jpg";
+import outreachy from "./outreachy.png";
+import mhtcet from "./mhtcet.png";
 
 import cluboard from "./cluboard.png";
 import cash_flow from "./cash_flow.jpg";
 import ecell from "./ecell.png";
 import gdsc from "./gdsc.png";
 import iris from "./iris.png";
+import jee from "./jee.jpg";
 import genesis from "./genesis.jpg";
 import portfolio from "./portfolio.jpg";
 import cdc from "./cdc.png";
@@ -34,6 +41,8 @@ import polkadot from "./polkadot.jpeg";
 import lightspeed from "./lightspeed.png";
 import dennisivy from "./dennisivy.png";
 import manipal from "./manipal.png";
+import sfs from "./s4s.png";
+import kalakriti from "./kalakriti.png";
 import icon from "./icon.jpg";
 import ethforall from "./ethforall.png";
 import ethindia from "./ethindia.png";
@@ -42,14 +51,23 @@ export {
   menu,
   close,
   arrowUp,
+  sfs,
   nitk,
+  rik,
+  kalakriti,
   bbs,
+  alumni,
   cluboard,
+  alma,
   cash_flow,
+  outreachy,
   gdsc,
   iris,
+  jee,
   ecell,
   genesis,
+  microsoft,
+  mhtcet,
   portfolio,
   cdc,
   parthmittal,
